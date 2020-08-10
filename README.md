@@ -10,4 +10,4 @@ Criado para o estudo de css.
 
 ## Visualização
 
-https://dfirmino.github.io/Nativus/
+https://dfirmino.github.io/Natours/
